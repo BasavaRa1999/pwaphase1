@@ -1,0 +1,43 @@
+{
+  "profile":{
+    "image":"image/flower.jpeg",
+    "name":"Basava Raj",
+    "desig":"student",
+    "mobile":"9110720831",
+    "email":"rajb0880@gmail.com"
+  },
+  "career":{
+    "info":"to reach the goal in my life fastly"
+  },
+  "education":
+    [
+      {
+    "qualification":"B.TECH",
+    "Institute":"MITS COLLEGE",
+    "percentage":"75%",
+    "year_of_passing":"2021"
+  },
+{
+  "qualification":"inter",
+  "Institute":"Sri Chaitanya Junior College",
+  "percentage":"92.4%",
+  "year of passing":"2017"
+},
+{
+  "qualification":"10th class",
+  "Institute":"SKDR High School",
+  "percentage":"85%",
+  "year of passing":"2015"
+}
+],
+"skills":[
+{
+  "name":"web technologies",
+  "info":["HTML,CSS,JAVA"]
+},
+{
+  "name":"data base",
+  "info":["jdbc","fire base","sql"]
+  }
+]
+}
